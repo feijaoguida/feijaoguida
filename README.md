@@ -1,16 +1,28 @@
-### Hi there 👋
+# Roseweltty Barbosa Guida
 
-<!--
-**feijaoguida/feijaoguida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rosewelttybguida-blue)](https://www.linkedin.com/in/rosewelttybguida/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou contador por formação, e a mais de 15 anos trabalho com informática, seja no suporte ao cliente, manutenção de computadores, ministrando cursos, trabalhando em software house, como analista de suporte, analista de teste, analista de implantação.
+
+Trabalho com desenvolvimento de websites nas plataformas wordpress.
+
+  - [cincodejunho.com.br](http://www.cincodejunho.com.br)
+  - [diramos.com.br](http://diramos.com.br)
+  - [taxitrindadepontobasilica.com.br](http://taxitrindadepontobasilica.com.br)
+  - [https://intranet.tocantinstransportes.com.br.com.br](https://intranet.tocantinstransportes.com.br)
+
+
+# Minha stack
+
+  - Trabalho com desenvolvimento de sites com a plataforma Wordpress.
+  - NodeJs
+  - ReactJs
+  - Html
+  - Css
+
+Já tive contato com:
+  - Banco de dados (Mysql, MSSql, Oracle, Postgress, MongoDB)
+  - Metodologias Ageis (Scrum)
+  - Desenvolvimento em C#, DotNet
