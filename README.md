@@ -6,6 +6,20 @@
 
 Sou contador por formação, e a mais de 15 anos trabalho com informática, seja no suporte ao cliente, manutenção de computadores, ministrando cursos, trabalhando em software house, como analista de suporte, analista de teste, analista de implantação.
 
+# Minha stack
+
+  - Trabalho com desenvolvimento de sites com a plataforma Wordpress.
+  - NodeJs
+  - ReactJs
+  - Html
+  - Css
+
+Já tive contato com:
+  - Banco de dados (Mysql, MSSql, Oracle, Postgress, MongoDB)
+  - Metodologias Ageis (Scrum)
+  - Desenvolvimento em C#, DotNet
+
+Abaixo esta uma lista de trabalhos desenvolvidos, seja para estudo, para testes em processos Seletivos e alguns trabalhos de clientes.
 
 Estudos desenvolvidos durante treinamento na Gama Academy
 
@@ -42,15 +56,4 @@ Trabalho utilizando o NodeJs e ReactJs.
     FrontEnd: ReactJs, StyledComponets, Yup, Formik, MaterialUI, Internacionalicação, theme-switch
 
 
-# Minha stack
 
-  - Trabalho com desenvolvimento de sites com a plataforma Wordpress.
-  - NodeJs
-  - ReactJs
-  - Html
-  - Css
-
-Já tive contato com:
-  - Banco de dados (Mysql, MSSql, Oracle, Postgress, MongoDB)
-  - Metodologias Ageis (Scrum)
-  - Desenvolvimento em C#, DotNet
