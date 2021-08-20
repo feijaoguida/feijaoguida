@@ -13,6 +13,8 @@ Sou contador por formação, e a mais de 15 anos trabalho com informática, seja
   - ReactJs
   - Html
   - Css
+  - VueJs
+  - Python
 
 Já tive contato com:
   - Banco de dados (Mysql, MSSql, Oracle, Postgress, MongoDB)
