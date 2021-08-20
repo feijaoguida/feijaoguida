@@ -51,8 +51,9 @@ Trabalho utilizando o NodeJs e ReactJs.
   - [telzirtelecomv2.netlify.app](https://telzirtelecomv2.netlify.app) - User: teste9@teste.com.br - passWord: 87654321
     ps.: Este sistema Foi utilizado o Heroku (conta gratuita) para hospedagem do backend, e o sistema entra em hibernação com algum tempo, então no primeiro acesso pode demorar ate 1 minuto para acesso.
     Foram utilizados:
-    [Backend](https://github.com/feijaoguida/telnetBack): Node, Express, JTW
-    [FrontEnd](https://github.com/feijaoguida/telnetFront): ReactJs, StyledComponents, Yup, Formik
+    
+[Backend](https://github.com/feijaoguida/telnetBack): Node, Express, JTW
+[FrontEnd](https://github.com/feijaoguida/telnetFront): ReactJs, StyledComponents, Yup, Formik
     
   - [encontactapp.netlify.app](https://encontactapp.netlify.app/)
     Este sistema esta hospedado no netlify, para acesso informe o nome e email.
