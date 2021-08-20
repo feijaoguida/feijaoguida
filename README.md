@@ -41,16 +41,18 @@ Trabalho com desenvolvimento de websites nas plataformas wordpress.
 
   - [cincodejunho.com.br](http://www.cincodejunho.com.br)
   - [diramos.com.br](http://diramos.com.br)
-  - [taxitrindadepontobasilica.com.br](http://taxitrindadepontobasilica.com.br)
+  - [http://topnewsgoias.com.br](http://topnewsgoias.com.br)
   - [https://intranet.tocantinstransportes.com.br.com.br](https://intranet.tocantinstransportes.com.br)
+  - [http://triunfoclaroempresas.com.br](http://triunfoclaroempresas.com.br)
+  - [http://grupoliderprotecaoveicular.com.br](http://grupoliderprotecaoveicular.com.br)
   
 Trabalho utilizando o NodeJs e ReactJs.
 
   - [telzirtelecomv2.netlify.app](https://telzirtelecomv2.netlify.app) - User: teste9@teste.com.br - passWord: 87654321
     ps.: Este sistema Foi utilizado o Heroku (conta gratuita) para hospedagem do backend, e o sistema entra em hibernação com algum tempo, então no primeiro acesso pode demorar ate 1 minuto para acesso.
     Foram utilizados:
-    Backend: Node, Express, JTW
-    FrontEnd: ReactJs, StyledComponents, Yup, Formik
+    [https://github.com/feijaoguida/telnetBack](Backend): Node, Express, JTW
+    [https://github.com/feijaoguida/telnetFront](FrontEnd): ReactJs, StyledComponents, Yup, Formik
     
   - [encontactapp.netlify.app](https://encontactapp.netlify.app/)
     Este sistema esta hospedado no netlify, para acesso informe o nome e email.
