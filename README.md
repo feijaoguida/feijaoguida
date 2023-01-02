@@ -28,9 +28,14 @@ Abaixo esta uma lista de trabalhos desenvolvidos, seja para estudo, para testes 
   - [PortFolio](https://linktr.ee/rbgsolucoes)
   
 Trabalho utilizando o NodeJs e ReactJs.
+
+### Sujeito Pizza
+
   - [sujeitoPizza](https://superlanche.vercel.app) - User: teste@teste.com - passWord: 123123
   - [aplicativo android](https://drive.google.com/drive/folders/1FZ7XHwGTuOMC2cnCsAgmPxATC_Liq9Wy?usp=share_link) - O Aplicativo esta no formato apk, não foi feito a publicação em nenuma loja. Porem por esse link é possivel baixar e testar em seu celular Android.
 projeto fullstack criado utilizando NodeJs, ReactJs(Nextjs) e o ReactNative(expo) e você encontra o codigo no [repositorio](https://github.com/feijaoguida/ProjetoPizza). Projeto simples para controle me atendimento em uma pizzaria. 
+
+### Telzir
 
   - [telzirtelecomv2.netlify.app](https://telzirtelecomv2.netlify.app) - User: teste9@teste.com.br - passWord: 87654321
     ps.: Este sistema Foi utilizado o Heroku (conta gratuita) para hospedagem do backend, e o sistema entra em hibernação com algum tempo, então no primeiro acesso pode demorar ate 1 minuto para acesso.
@@ -44,21 +49,21 @@ projeto fullstack criado utilizando NodeJs, ReactJs(Nextjs) e o ReactNative(expo
     Foram utilizados:
     FrontEnd: ReactJs, StyledComponets, Yup, Formik, MaterialUI, Internacionalicação, theme-switch
     
-Estudos desenvolvidos durante treinamento na Gama Academy
+## Estudos desenvolvidos durante treinamento na Gama Academy
 
   - [https://plantaocovid-gama.netlify.app/](https://plantaocovid-gama.netlify.app/) - Projeto utilizando, HTML, CSS, BootStrap
   - [gamahostel.netlify.app/](https://gamahostel.netlify.app/) - Projeto consumindo api, utilizando JS Vanila, HTML, CSS
   - [herosmarvel.netlify.app/](https://herosmarvel.netlify.app/) - Projeto ReactJs consumindo api de Terceiro (Marvel), StyledComponents
 
-Trabalho com desenvolvimento de websites Utilizando HTML, CSS, Bootstrap.
+## Trabalho com desenvolvimento de websites Utilizando HTML, CSS, Bootstrap.
 
   - [topgondolas.netlify.app/](https://topgondolas.netlify.app/)
   
-Trabalho com desenvolvimento de websites Utilizando HTML, CSS, FlexBox
+## Trabalho com desenvolvimento de websites Utilizando HTML, CSS, FlexBox
 
   - [hotelparaiso.netlify.app/](https://hotelparaiso.netlify.app/)
 
-Trabalho com desenvolvimento de websites nas plataformas wordpress.
+## Trabalho com desenvolvimento de websites nas plataformas wordpress.
 
   - [cincodejunho.com.br](http://www.cincodejunho.com.br)
   - [diramos.com.br](http://diramos.com.br)
